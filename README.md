@@ -1,2 +1,2 @@
-# -OIBGRIP
+# OIBGRIP
 Java Developer Tasks
